@@ -9,7 +9,7 @@ author: ''
 tags: []
 draft: true
 ---
-```javascript
+```go
 ```
 
 > sdsdsssss
