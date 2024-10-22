@@ -1,10 +1,10 @@
 {
   "media": {
-    "root": "exampleSite/assets",
-    "public": "exampleSite"
+    "root": "exampleSite/assets/images",
+    "public": "exampleSite/assets"
   },
   "content": {
-    "root": "exampleSite/content"
+    "root": "exampleSite/content/english"
   },
   "themeConfig": [
     "exampleSite/config"
