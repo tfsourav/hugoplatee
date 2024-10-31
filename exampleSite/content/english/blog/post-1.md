@@ -7,7 +7,8 @@ image: /UIHut.png
 categories:
   - Application
   - Data
-author: John Doee
+  - Test
+author: Sourav
 tags:
   - nextjs
   - tailwind
