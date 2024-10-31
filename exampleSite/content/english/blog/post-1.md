@@ -1,9 +1,9 @@
 ---
-title: How to build an Application with modern technology
-meta_title: ''
+title: How to build an Application with modern Technologyyyy
+meta_title: this is meta title
 description: this is meta description
 date: '2022-04-04T05:00:00.000Z'
-image: /images/gallery/03.jpg
+image: /UIHut.png
 categories:
   - Application
   - Data
