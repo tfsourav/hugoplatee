@@ -1,6 +1,3 @@
-############# English navigation ##############
-
-# main menu
 [[main]]
 name = "Home"
 url = "/"
@@ -45,10 +42,8 @@ parent = "Pages"
 name = "404 Page"
 url = "/404"
 
-
-# footer menu
 [[footer]]
-name = "About"
+name = "Abouttt"
 url = "/about"
 weight = 1
 
