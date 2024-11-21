@@ -13,7 +13,7 @@
     {
       "type": "folder",
       "targetPath": "exampleSite/content/english/blog",
-      "groupName": "blog list",
+      "groupName": "blog-list",
       "include": "*.md",
       "exclude": "*!index.md"
     }
