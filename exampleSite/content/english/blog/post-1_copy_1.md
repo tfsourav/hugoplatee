@@ -7,6 +7,7 @@ image: /images/image-placeholder.png
 categories:
   - Application
   - Data
+  - nnn
 author: John Doe
 tags:
   - nextjs
