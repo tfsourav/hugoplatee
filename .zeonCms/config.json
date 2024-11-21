@@ -15,7 +15,7 @@
       "targetPath": "exampleSite/content/english/blog",
       "groupName": "blog list",
       "include": "*.md",
-      "exclude": "*index.md"
+      "exclude": "*!index.md"
     }
   ]
 }
