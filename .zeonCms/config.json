@@ -9,13 +9,5 @@
   "themeConfig": [
     "exampleSite/config"
   ],
-  "arrangement": [
-    {
-      "type": "folder",
-      "targetPath": "exampleSite/content/english/blog",
-      "groupName": "blog-list",
-      "include": "*.md",
-      "exclude": "*!index.md"
-    }
-  ]
+  "arrangement": []
 }
