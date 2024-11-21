@@ -9,5 +9,13 @@
   "themeConfig": [
     "exampleSite/config"
   ],
-  "arrangement": []
+  "arrangement": {
+    "exampleSite/content/english/blog": {
+      "blog-list": {
+        "weight": 0,
+        "include": "*.md",
+        "exclude": "*!index.md"
+      }
+    }
+  }
 }
