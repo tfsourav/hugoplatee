@@ -4,7 +4,7 @@
     "public": "exampleSite/assets"
   },
   "content": {
-    "root": "exampleSite/content/english"
+    "root": "exampleSite/content"
   },
   "themeConfig": [
     "exampleSite/config"
