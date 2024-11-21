@@ -9,13 +9,13 @@
   "themeConfig": [
     "exampleSite/config"
   ],
-  "arrangement": {
-    "exampleSite/content/english/blog": {
-      "blog-list": {
-        "weight": 0,
-        "include": "*.md",
-        "exclude": "*!index.md"
-      }
+  "arrangement": [
+    {
+      "type": "folder",
+      "targetPath": "exampleSite/content/english/blog",
+      "groupName": "blog-list",
+      "include": "*.md",
+      "exclude": "*!index.md"
     }
-  }
+  ]
 }
