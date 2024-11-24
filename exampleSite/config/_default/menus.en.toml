@@ -43,7 +43,7 @@ name = "404 Page"
 url = "/404"
 
 [[footer]]
-name = "Abouttt"
+name = "About"
 url = "/about"
 weight = 1
 
