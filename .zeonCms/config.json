@@ -9,5 +9,6 @@
   "themeConfig": [
     "exampleSite/config"
   ],
-  "arrangement": []
+  "arrangement": [],
+  "showCommitModal": true
 }
