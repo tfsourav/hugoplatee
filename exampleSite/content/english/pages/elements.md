@@ -1,10 +1,7 @@
 ---
-title: "Elements"
-# meta title
-meta_title: ""
-# meta description
-description: "This is meta description"
-# save as draft
+title: Elements
+meta_title: meta
+description: This is meta description
 draft: false
 ---
 
